@@ -1,2 +1,2 @@
-# Trabajo3
-Trabajo Numero 3 de Programacion xd
+# Tarea3
+Tarea Numero 3 de Programacion xd
